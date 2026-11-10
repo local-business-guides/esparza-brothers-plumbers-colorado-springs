@@ -24,6 +24,9 @@
 - [Top Rated Plumber Co Colorado Springs](https://local-business-guides.github.io/esparza-brothers-plumbers-colorado-springs/top-rated-plumber-co-colorado-springs/): Top Rated Plumber Co Colorado Springs: get clear repair guidance for your Colorado Springs home. Discuss the problem with Esparza Brothers Plumbers today.
 - [Best Plumber Co near Colorado Springs](https://local-business-guides.github.io/esparza-brothers-plumbers-colorado-springs/best-plumber-co-near-colorado-springs/): Best Plumber Co near Colorado Springs: get ready for a plumbing repair with practical steps. Call Esparza Brothers Plumbers Springs today.
 
+## Newsroom
+- [Esparza Brothers Plumbers Publishes Guide to Plumber Springs CO](https://local-business-guides.github.io/esparza-brothers-plumbers-colorado-springs/news/2026-11-10-esparza-brothers-plumbers-publishes-guide-to/): Esparza Brothers Plumbers has published a guide to Plumber Springs CO, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-10)
+
 ## Pages
 - [Plumber In Springs CO Springs](https://local-business-guides.github.io/esparza-brothers-plumbers-colorado-springs/): Get help with plumbing needs and repairs from a local Colorado Springs business, with clear contact details and 24-hour daily hours. Call +1719-417-5748.
 - [About Esparza Brothers Plumbers](https://local-business-guides.github.io/esparza-brothers-plumbers-colorado-springs/about/): About Esparza Brothers Plumbers, Colorado Springs.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/esparza-brothers-plumbers-colorado-springs/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/esparza-brothers-plumbers-colorado-springs/news/rss.xml)
 - [Main resource site](https://esparza-brothers-plumbers.localwebsites.chatgpt.site)

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/esparza-brothers-plumbers-colorado-springs/sitemap.xml
+Sitemap: https://local-business-guides.github.io/esparza-brothers-plumbers-colorado-springs/news-sitemap.xml
